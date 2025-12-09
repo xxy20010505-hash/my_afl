@@ -21,7 +21,7 @@ BIN_PATH    = $(PREFIX)/bin
 HELPER_PATH = $(PREFIX)/lib/afl
 DOC_PATH    = $(PREFIX)/share/doc/afl
 MISC_PATH   = $(PREFIX)/share/afl
-ONNX_PATH   = $(HOME)/桌面/onnxruntime
+ONNX_PATH   = /opt/onnxruntime
 
 # PROGS intentionally omit afl-as, which gets installed elsewhere.
 
